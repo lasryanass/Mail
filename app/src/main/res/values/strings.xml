@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mail</string>
+    <string name="mailOfDestination">Mail of destination</string>
+    <string name="mailSubject">Subject</string>
+    <string name="mailContent">Content</string>
+</resources>
